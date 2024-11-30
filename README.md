@@ -1,6 +1,6 @@
 ## About
 
-VS Code plugin for the Nova Programming Language by [Pyrotek45]("https://github.com/pyrotek45/nova-lang").
+VS Code plugin for the Nova Programming Language by [Pyrotek45](https://github.com/pyrotek45/nova-lang).
 
 ### Changes in v0.0.3:
 

@@ -1,0 +1,32 @@
+{
+  "name": "nova-lang",
+  "displayName": "Nova Programming Language",
+  "description": "Syntax highlighting for the Nova programming language.",
+  "icon": "images/nova_logo.png",
+  "version": "0.0.3",
+  "publisher": "Max",
+	"author": "Max",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "nv",
+      "aliases": ["Nova", "nv"],
+      "extensions": [".nv"],
+      "icon": {
+					"light": "images/nova_file_logo.png",
+					"dark": "images/nova_file_logo.png"
+			  },
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "nv",
+      "scopeName": "source.nv",
+      "path": "./syntaxes/nv.tmLanguage.json"
+    }]
+  }
+}

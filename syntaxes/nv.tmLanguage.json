@@ -22,11 +22,11 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.nv",
-				"match": "\\b(if|else|while|for|return|foreach)\\b"
+				"match": "\\b(if|else|while|for|return)\\b"
 			},
 			{
 				"name": "keyword.structure.nv",
-				"match": "\\b(let|struct|fn|array|unwrap|bind)\\b"
+				"match": "\\b(let|struct|fn|array|extends|mod|in)\\b"
 			}
 		]
 		},

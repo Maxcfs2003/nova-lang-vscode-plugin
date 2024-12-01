@@ -3,7 +3,7 @@
   "displayName": "Nova Programming Language",
   "description": "Syntax highlighting for the Nova programming language.",
   "icon": "images/nova_logo.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Max",
 	"author": "Max",
   "engines": {

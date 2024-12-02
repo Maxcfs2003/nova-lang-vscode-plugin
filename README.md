@@ -2,7 +2,7 @@
 
 VS Code plugin for the Nova Programming Language by [Pyrotek45](https://github.com/pyrotek45/nova-lang).
 
-### Chnages in v0.0.4:
+### Changes in v0.0.4:
 
 - Added keywords: "extends", "mod" and "in"
 - Removed Keywords: "unwrap", "foreach" and "bind"

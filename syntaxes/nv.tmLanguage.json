@@ -23,11 +23,11 @@
 			"patterns": [
 				{
 					"name": "keyword.control.nv",
-					"match": "\\b(match|if|else|while|for|elif|module|return)\\b"
+					"match": "\\b(match|if|else|while|for|elif|module|return|continue|break)\\b"
 				},
 				{
 					"name": "keyword.structure.nv",
-					"match": "\\b(let|struct|fn|array|extends|mod|in|import)\\b"
+					"match": "\\b(let|struct|enum|type|fn|extends|mod|in|import)\\b"
 				}
 			]
 		},

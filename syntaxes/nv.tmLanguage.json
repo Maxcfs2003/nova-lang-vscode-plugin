@@ -27,7 +27,7 @@
 				},
 				{
 					"name": "keyword.structure.nv",
-					"match": "\\b(let|struct|fn|array|extends|mod|in)\\b"
+					"match": "\\b(let|struct|fn|array|extends|mod|in|import)\\b"
 				}
 			]
 		},

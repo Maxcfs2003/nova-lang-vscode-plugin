@@ -23,7 +23,7 @@
 			"patterns": [
 				{
 					"name": "keyword.control.nv",
-					"match": "\\b(if|else|while|for|return)\\b"
+					"match": "\\b(match|if|else|while|for|elif|module|return)\\b"
 				},
 				{
 					"name": "keyword.structure.nv",
